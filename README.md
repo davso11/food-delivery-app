@@ -1,8 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project generated using [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Start Dev Server 🚀
+## Start the development server 🚀
 
-To do so, run:
+Run the following command :
 
 ```bash
 npm run dev
@@ -12,4 +12,4 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
