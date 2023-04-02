@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "target": "All deserts",
+    "label": "20% OFF",
+    "img": "/img/cake.png",
+    "category": "Deserty",
+    "bg": "bg-primary-light",
+    "color": "text-primary"
+  },
+  {
+    "id": 2,
+    "target": "Big Burgers",
+    "label": "50% OFF",
+    "img": "/img/burger.png",
+    "category": "Fooddies",
+    "bg": "bg-orange-light",
+    "color": "text-orange"
+  }
+]

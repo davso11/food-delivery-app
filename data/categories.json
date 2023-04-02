@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Pizza", "img": "/img/emojis/pizza.png" },
+  { "id": 2, "name": "Burger", "img": "/img/emojis/burger.png" },
+  { "id": 3, "name": "BBQ", "img": "/img/emojis/meat.png" },
+  { "id": 4, "name": "Sushi", "img": "/img/emojis/sushi.png" },
+  { "id": 5, "name": "Vegan", "img": "/img/emojis/broccoli.png" },
+  { "id": 6, "name": "Desserts", "img": "/img/emojis/cake.png" }
+]

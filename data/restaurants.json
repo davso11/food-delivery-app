@@ -1,0 +1,75 @@
+{
+  "pizza": [
+    {
+      "id": "db906b43a765f427",
+      "category": "pizza",
+      "name": "Burger & Pizza",
+      "img": "/img/burger-pizza.png",
+      "min-order-price": 24,
+      "min-delivery-time": "40",
+      "max-delivery-time": "60",
+      "featured": true,
+      "tags": [
+        { "id": 1, "label": "Burger", "img": "/img/emojis/burger.png" },
+        { "id": 2, "label": "Pizza", "img": "/img/emojis/pizza.png" }
+      ]
+    }
+  ],
+  "sushi": [
+    {
+      "id": "9851a60c5d695aa1",
+      "category": "sushi",
+      "name": "Royal Sushi House",
+      "img": "/img/royal-sushi.png",
+      "min-order-price": 32,
+      "min-delivery-time": "30",
+      "max-delivery-time": "40",
+      "featured": true,
+      "tags": [{ "id": 3, "label": "Sushi", "img": "/img/emojis/sushi.png" }]
+    },
+    {
+      "id": "bb812b65f00f44d0",
+      "category": "sushi",
+      "name": "Ninja sushi",
+      "img": "/img/ninja-sushi.png",
+      "min-order-price": 40,
+      "min-delivery-time": "20",
+      "max-delivery-time": "40",
+      "featured": false,
+      "tags": [{ "id": 3, "label": "Sushi", "img": "/img/emojis/sushi.png" }]
+    },
+    {
+      "id": "815884547446a397",
+      "category": "sushi",
+      "name": "Sushi master",
+      "img": "/img/sushi-master.png",
+      "min-order-price": 49,
+      "min-delivery-time": "60",
+      "max-delivery-time": "70",
+      "featured": false,
+      "tags": [{ "id": 3, "label": "Sushi", "img": "/img/emojis/sushi.png" }]
+    },
+    {
+      "id": "ff6d7732cb0e1f4f",
+      "category": "sushi",
+      "name": "Japanese sushi",
+      "img": "/img/japanese-sushi.png",
+      "min-order-price": 104,
+      "min-delivery-time": "30",
+      "max-delivery-time": "50",
+      "featured": false,
+      "tags": [{ "id": 3, "label": "Sushi", "img": "/img/emojis/sushi.png" }]
+    },
+    {
+      "id": "cd3469e8b6603cca",
+      "category": "sushi",
+      "name": "Kobe",
+      "img": "/img/kobe.png",
+      "min-order-price": 57,
+      "min-delivery-time": "20",
+      "max-delivery-time": "30",
+      "featured": false,
+      "tags": [{ "id": 3, "label": "Sushi", "img": "/img/emojis/sushi.png" }]
+    }
+  ]
+}
