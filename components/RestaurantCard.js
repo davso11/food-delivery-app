@@ -47,7 +47,10 @@ export function RestaurantCard(restaurant) {
         </ul>
         <div className="mt-[0.875rem] flex gap-2">
           {restaurant.tags.map((tag) => (
-            <div className="flex gap-2 rounded-full bg-grey-light px-3 py-2">
+            <div
+              key={tag.id}
+              className="flex gap-2 rounded-full bg-grey-light px-3 py-2"
+            >
               <Image
                 src={tag.img}
                 alt={`${tag.label} emoji`}
